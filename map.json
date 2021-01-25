@@ -83,7 +83,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"forum"
+                 "value":"table"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
