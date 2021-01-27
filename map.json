@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"forum"
+                 "value":"diforum"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"canap1"
+                 "value":"dicanap1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -83,7 +83,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table"
+                 "value":"ditable"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -111,7 +111,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"canap2"
+                 "value":"dicanap2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
